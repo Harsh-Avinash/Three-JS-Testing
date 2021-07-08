@@ -1,8 +1,8 @@
 # Three-JS-Testing
 
-TW: I swear a LOT here
+<b>TW:</b> I swear a LOT here
 
-UPDATE: RN IT'S JUST 3D Testing
+<b>UPDATE:</b> RN IT'S JUST 3D Testing
 
 Well I like 3D and I don't really know "js" and I was like mightas well do this crap
 
